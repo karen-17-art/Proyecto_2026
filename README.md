@@ -1,2 +1,3 @@
 # Proyecto_2026
-# Karen Soplopuco
+# Autor
+Karen Soplopuco
